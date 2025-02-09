@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=MdReader
+Comment=Markdown Reader Application
+Exec=MdReader %u
+Icon=default
+Terminal=false
+Type=Application
+Categories=Utility;Application;
